@@ -10,9 +10,6 @@ import concurrent.futures
 import threading
 from toolz.itertoolz import reduceby
 from web3 import Web3
-import eth_abi
-import web3
-
 
 
 import abi 
